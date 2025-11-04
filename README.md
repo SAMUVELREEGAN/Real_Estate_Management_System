@@ -79,7 +79,6 @@ Dashboard
 
 ![13](https://github.com/user-attachments/assets/762ee879-cfb3-4342-a833-c049cd92e525)
  
-
 ---
 
 ## 🔧 Installation & Setup (Backend – Laravel)
